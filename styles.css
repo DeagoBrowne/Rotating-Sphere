@@ -16,7 +16,7 @@ body {
   position: absolute;
   height: 350px;
   width: 350px;
-  border: solid 1px rgb(100, 100, 200);
+  border: solid 3px rgb(100, 100, 200);
   border-radius: 50%;
   animation: rotate1 8s infinite linear;
 }
@@ -25,7 +25,7 @@ body {
   position: absolute;
   height: 350px;
   width: 350px;
-  border: solid 1px rgb(100, 100, 200);
+  border: solid 3px rgb(100, 100, 200);
   border-radius: 50%;
   animation: rotate2 8s infinite linear;
 }
@@ -34,7 +34,7 @@ body {
   position: absolute;
   height: 350px;
   width: 350px;
-  border: solid 1px rgb(100, 100, 200);
+  border: solid 3px rgb(100, 100, 200);
   border-radius: 50%;
   animation: rotate3 8s infinite linear;
 }
@@ -43,7 +43,7 @@ body {
   position: absolute;
   height: 350px;
   width: 350px;
-  border: solid 1px rgb(100, 100, 200);
+  border: solid 3px rgb(100, 100, 200);
   border-radius: 50%;
   animation: rotate4 5s infinite linear;
 }
@@ -52,7 +52,7 @@ body {
   position: absolute;
   height: 350px;
   width: 350px;
-  border: solid 1px rgb(100, 100, 200);
+  border: solid 3px rgb(100, 100, 200);
   border-radius: 50%;
   animation: rotate5 5s infinite linear;
 }
@@ -61,7 +61,7 @@ body {
   position: absolute;
   height: 350px;
   width: 350px;
-  border: solid 1px rgb(100, 100, 200);
+  border: solid 3px rgb(100, 100, 200);
   border-radius: 50%;
   animation: rotate6 5s infinite linear;
 }
